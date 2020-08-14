@@ -29,7 +29,7 @@ Finally,  <br/>
 * Frequent visitor on Tweeter 📲  <br/>
 * Avid reader in Kindle 📚  <br/>
 * Occasional writer in Medium 📝  <br/> 
-* Skills: 
+* <b>Skills: </b> <br/>
 Scripting & Devops Engineering  <br/>
 Data management & Data modeling 
  <br/>Product Design & Design Thinking  <br/>
