@@ -33,4 +33,4 @@ Finally,  <br/>
  ✨ Scripting & Devops Engineering  <br/>
  ✨ Data management & Data modeling 
  <br/> ✨ Product Design & Design Thinking  <br/>
- ✨ Working Domain E-commerce,Energy/Utilities,Planning,Accounting
+ ✨ Working Domain: E-commerce,Energy/Utilities,Planning,Accounting
