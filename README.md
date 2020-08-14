@@ -29,6 +29,8 @@ Finally,  <br/>
 * Frequent visitor on Tweeter 📲  <br/>
 * Avid reader in Kindle 📚  <br/>
 * Occasional writer in Medium 📝  <br/> 
-* Skills Scripting & Devops Engineering Data management & Data modeling 
+* Skills: 
+Scripting & Devops Engineering  <br/>
+Data management & Data modeling 
  <br/>Product Design & Design Thinking  <br/>
 Domain: E-commerce,Energy/Utilities,Planning,Accounting
