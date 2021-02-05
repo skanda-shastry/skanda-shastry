@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <Work In Progress>
 
-20 SECOND BIO Hi! Hello! Ola!! 😎  <br/>
+Hi! Hello! Ola!! 😎  <br/>
 A Passionately Curious guy!💡 keen to learn the new things which will help in Professional & personal growth 👓 .  <br/> 
 An Computer Science graduate,🎓 currently associated with an E-commerce Comapnay, having 4+ years of product building expreience in various domain.  <br/>
 ✔ Loves to understand, build and operate HA Distributed systems.  <br/>   
