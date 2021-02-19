@@ -21,4 +21,4 @@ A Passionately Curious guy!💡 keen to learn the new things which will help in 
 An Computer Science graduate,🎓 currently associated with an E-commerce Comapnay, having 4+ years of product building expreience in various domain.  <br/>
 ✔ Loves to understand, build and operate HA Distributed systems.  <br/>   
 ✔ Working as Platform Operational Engineer role to create an data models, DBA best practices. <br/>  
-✔ Proficient problem solving, troubleshooting,transform the business requirement into tech feasibility. Previously work as Developer in Exceleron which provide an solution of smart metering grid & utility provider in North American region. <br/>  
+✔ Proficient problem solving, troubleshooting,transform the business requirement into tech feasibility. Previously working with Flipkart 
