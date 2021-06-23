@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 <Work In Progress>
 
 Hi! Hello! Ola!! 😎  <br/>
-A Passionately Curious guy!💡 keen to learn the new things which will help in Professional & personal growth 👓 .  <br/> 
+A Passionately Curious guy!💡 <br/>
+  keen to learn the new things which will help in Professional & personal growth 👓 .  <br/> 
