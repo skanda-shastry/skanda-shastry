@@ -21,6 +21,6 @@ Hi! Hello! Ola!! 👋 <br/>
 A Passionately Curious guy!💡 <br/>
   keen to learn new things which will help in Professional & personal growth 👓 .  <br/> 
 
-  [![Skanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=skanda-shastry)](https://github.com/skanda-shastry/github-readme-stats)
+  [![Skanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=skanda-shastry)](https://github.com/skanda-shastry/github-readme-stats) [def]
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skanda-shastry&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skanda-shastry&layout=compact)[def]
